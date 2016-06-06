@@ -12,4 +12,6 @@
 
 [李弘毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html)
 
+[林軒田](https://www.youtube.com/user/hsuantien/playlists)
+
 [R User Group] (https://www.youtube.com/channel/UCBBwy_xvVsM5iLB5dJZDqog)
