@@ -6,3 +6,8 @@
 [前端工程師手冊] (https://leohxj.gitbooks.io/front-end-database/content/index.html)
 
 [TypeScript](https://zhongsp.gitbooks.io/typescript-handbook/content/index.html)
+
+
+# 機器學習
+
+[李弘毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html)
