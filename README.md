@@ -9,9 +9,9 @@
 
 [程序員的自我修煉](https://leohxj.gitbooks.io/a-programmer-prepares/content/index.html)
 
-``` 主版本号：当你做了不兼容的API 修改。
-``` 次版本号：当你做了向下兼容的功能性新增。
-``` 修订号：当你做了向下兼容的问题修正。
+``` -主版本號：當你做了不兼容的API 修改。
+-次版本號：當你做了向下兼容的功能性新增。
+-修訂號：當你做了向下兼容的问题修正。``` 
 
 [前端工程師手冊](https://leohxj.gitbooks.io/front-end-database/content/index.html)
 
