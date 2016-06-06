@@ -9,9 +9,10 @@
 
 [程序員的自我修煉](https://leohxj.gitbooks.io/a-programmer-prepares/content/index.html)
 
-``` -主版本號：當你做了不兼容的API 修改。
--次版本號：當你做了向下兼容的功能性新增。
--修訂號：當你做了向下兼容的问题修正。``` 
+> [語義化版本號](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/semantic-versioning.html)
+
+> [命名](https://medium.com/@c9s/api-%E8%A8%AD%E8%A8%88-%E7%AC%AC%E4%B8%80%E9%83%A8-%E5%91%BD%E5%90%8D%E4%B9%8B%E8%A1%93-8dfe71576e95#.un2rv6fhl)
+
 
 [前端工程師手冊](https://leohxj.gitbooks.io/front-end-database/content/index.html)
 
