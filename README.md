@@ -7,7 +7,11 @@
 
 > [fork 與 pull request](https://github.com/doggy8088/Learn-Git-in-30-days/blob/master/docs/28%20%E4%BA%86%E8%A7%A3%20GitHub%20%E4%B8%8A%20forks%20%E8%88%87%20pull%20request%20%E7%9A%84%E7%89%88%E6%8E%A7%E6%B5%81%E7%A8%8B.markdown)
 
-[程序員的自我修煉](http://python.xiaoleilu.com/index.html)
+[程序員的自我修煉](https://leohxj.gitbooks.io/a-programmer-prepares/content/index.html)
+
+``` 主版本号：当你做了不兼容的API 修改。
+``` 次版本号：当你做了向下兼容的功能性新增。
+``` 修订号：当你做了向下兼容的问题修正。
 
 [前端工程師手冊](https://leohxj.gitbooks.io/front-end-database/content/index.html)
 
