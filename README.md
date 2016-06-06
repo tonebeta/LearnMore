@@ -11,3 +11,5 @@
 # 機器學習
 
 [李弘毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html)
+
+[R User Group] (https://www.youtube.com/channel/UCBBwy_xvVsM5iLB5dJZDqog)
