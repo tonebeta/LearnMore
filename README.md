@@ -13,6 +13,8 @@
 
 > [命名](https://medium.com/@c9s/api-%E8%A8%AD%E8%A8%88-%E7%AC%AC%E4%B8%80%E9%83%A8-%E5%91%BD%E5%90%8D%E4%B9%8B%E8%A1%93-8dfe71576e95#.un2rv6fhl)
 
+> [S.O.L.I.D](http://mp.weixin.qq.com/s?__biz=MjM5OTA1MDUyMA==&mid=206096090&idx=2&sn=2853d260242f7eaf5cf8fe9a0a8a9811#rd)
+
 
 [前端工程師手冊](https://leohxj.gitbooks.io/front-end-database/content/index.html)
 
