@@ -15,7 +15,6 @@
 
 > [S.O.L.I.D](http://mp.weixin.qq.com/s?__biz=MjM5OTA1MDUyMA==&mid=206096090&idx=2&sn=2853d260242f7eaf5cf8fe9a0a8a9811#rd)
 
-
 [前端工程師手冊](https://leohxj.gitbooks.io/front-end-database/content/index.html)
 
 >[DOM](https://leohxj.gitbooks.io/front-end-database/content/html-and-css-basic/learn-dom-tree.html)
